@@ -14,10 +14,10 @@ body {
 .spot {
   background: rgb(32, 32, 32);
 }
-.footer-data{
+.footer-data {
   background: rgb(32, 32, 32);
 }
-.scroll-header{
+.scroll-header {
   box-shadow: 0 -1px 4px rgba(0, 0, 0, 1.45);
   background: rgb(46, 46, 46);
 }
